@@ -1,0 +1,13 @@
+= NACUNA's STUFF=
+
+== notes ==
+* [[Yocto|Yocto Linux]]
+* [[LCC|local C compiler]]
+
+== TODOS ==
+* [[wedding_todo|wedding]]
+* [[PCI_todo|pci]]
+* [[iGen_todo|iGen]]
+* 
+
+
