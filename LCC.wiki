@@ -2,6 +2,81 @@
 
 
 == Symbol Management ==
+- Symbol tables are central repository for all information within the compiler.
+- All parts of the compiler communicate through these tables and access the data
+  in them.
+- lexical analyzer adds identifiers to the identifier table.
+- parser adds type information to the said identifiers.
+- code generators add target-specific data to symbol-table entries like register assignments.
+- symbol tables are also used to hold labels, constants and types.
+
+
+== Symbol table ==
+- map names to into sets of symbols.
+- constants, identifiers, and label numbers are example of names.
+- names have attributes like the type of the variable, location in a stack frame, 
+  storage class, etc.
+- the symbol table is managed by the *symbol table module*.
+
+
+== namespaces in ansi C ==
+- categorized according to use: statement labels, tags, members and ordinary identifiers.
+- tags - identif structures, unions, and enumerations.
+- there are three separate namespaces for labels, tags, and identifiers.
+- there is a separate name space for its members.
+
+- the C standard states:
+        - 6.2.3.1  if more than one declaration of a particular identifier is 
+          visible at any point in a translation unit, the syntactic context
+          disambiguates uses that refer to different entities. Thus, there are
+          separate name spaces for various categories of identifiers:
+          - label names
+          - tags of structures, unions and enumerations
+          - members of structures or unions; each structure or union has a
+            separate name space for its members.
+          - all other identifiers, called _ordianry identifiers_.
+
+
+
+1: struct list { int x; struct list *list; } *list;
+
+
+there are 3 identifiers named _list_. 
+        a) a structure tag
+        b) a field name
+        c) a variable
+the tag and variable have file scope; the field name "technically" also
+has file scope, but it can be used only with the field reference operators (. or ->.).
+
+
+2: walk(struct list *list) {
+3:         list:
+4:                 printf("%d\n", list->x);
+5:                 if ((list = list->list) != NULL)
+6:                         goto list;
+7: }
+
+line 2 declares a parameter _list_ whose scope is lines 2-7.
+line 3 declares the label _list_ which has _function scope_; whose scope is 
+       also lines 2-7.
+
+the use of _list_ in lines 4-8 determines which name space is used; line 4 uses
+ordinary identifiers, 
+
+line 5 uses ordinary identifiers for the first two 
+occurence of _list_ and members of struct _list_.
+
+line 6 consults the label name space.
+
+line 8 again uses the ordinary identifiers.
+
+roughly speaking, there is a separate symbol table for each name space.
+the symbol table themselves 
+
+
+== Representing Symbols ==
+
+
 
 
 

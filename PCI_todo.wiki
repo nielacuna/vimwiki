@@ -2,9 +2,11 @@
 
 
 * yocto imx8
-- [ ] meta-pci layer
-- [ ] convert meta-pci layer to BSP layer 
-      - [ ] added machine directory named 'tp2'
-- [ ] use local git repository
+- [X] meta-pci layer
+- [X] convert meta-pci layer to BSP layer 
+      - [X] added machine directory named 'tp2'
+- [o] use local git repository
+      - [X] already have initial bblayer file
+      - [ ] testing 
 
 

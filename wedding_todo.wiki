@@ -32,6 +32,7 @@
         - [ ] PSA birth certificate
         - [ ] PSA cenomar
 - [ ] decide on date for pre-marriage counselling
+- [ ] draft letter of authorization for kuya alex
 
 == church == 
 - [X] send 8k to k for ADMU pre-cana. D:[oct-24-2021]
