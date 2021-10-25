@@ -14,17 +14,17 @@
         - [X] cedula D: [Oct-25-2021 Mon]
 - [.] certificates
         - [ ] baptismal certificate
-              - [ ] secure nov 4
-              - [ ] lbc priority send
+                - [ ] secure nov 4
+                - [ ] lbc priority send
         - [ ] confirmation certificate
-              - [ ] secure nov 4
-              - [ ] lbc priority send
+                - [ ] secure nov 4
+                - [ ] lbc priority send
         - [o] PSA birth certificate
-              - [X] order from PSA website
-              - [ ] received?
+                - [X] order from PSA website
+                - [ ] received?
         - [o] PSA cenomar
-              - [X] order from PSA website
-              - [ ] received?
+                - [X] order from PSA website
+                - [ ] received?
 - [ ] send all documents to k
         - [ ] 2x2 photo
         - [ ] baptismal certificate
@@ -32,7 +32,10 @@
         - [ ] PSA birth certificate
         - [ ] PSA cenomar
 - [ ] decide on date for pre-marriage counselling
-- [ ] draft letter of authorization for kuya alex
+- [ ] draft letter of authorization for getting cedula and barangay clearance
+- [ ] scan identification cards
+        - [ ] passport
+        - [ ] UMID
 
 == church == 
 - [X] send 8k to k for ADMU pre-cana. D:[oct-24-2021]
