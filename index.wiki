@@ -1,10 +1,14 @@
 = NACUNA's STUFF=
 
+== shortcut ==
+* [[wedding_todo|wedding]]
+* [[iGen_todo|iGen TODO]]
+
 == project notes ==
-* [[Yocto|Yocto Linux]]
+* [[Yocto|Yocto Linux:imx8]]
 * [[LCC|local C compiler]]
 
 == todos ==
 * [[wedding_todo|wedding]]
 * [[PCI_todo|pci]]
-* [[iGen_todo|iGen]]
+* [[iGen_todo|iGen]

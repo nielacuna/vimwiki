@@ -1,3 +1,10 @@
 = My PCI TODO List =
 
 
+* yocto imx8
+- [ ] meta-pci layer
+- [ ] convert meta-pci layer to BSP layer 
+      - [ ] added machine directory named 'tp2'
+- [ ] use local git repository
+
+

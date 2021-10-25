@@ -4,16 +4,27 @@
 
 
 == civil ==
+- [ ] secure wedding band
+      - already have quotation from supplier
 - [X] pamamanhikan
 - [X] decide on final date of civil wedding: Dec 28, 2021
-- [ ] munisipyo documents
-        - [ ] barangay clearance
-        - [ ] cedula
-- [ ] certificates
+- [X] take recent ID photo 2x2
+- [X] barangay munisipyo documents
+        - [X] barangay clearance D:[Oct-25-2021 Mon] 
+        - [X] cedula D: [Oct-25-2021 Mon]
+- [.] certificates
         - [ ] baptismal certificate
+              - [ ] secure nov 4
+              - [ ] lbc priority send
         - [ ] confirmation certificate
-        - [ ] PSA birth certificate
-        - [ ] PSA cenomar
+              - [ ] secure nov 4
+              - [ ] lbc priority send
+        - [o] PSA birth certificate
+              - [X] order from PSA website
+              - [ ] received?
+        - [o] PSA cenomar
+              - [X] order from PSA website
+              - [ ] received?
 - [ ] send all documents to k
         - [ ] 2x2 photo
         - [ ] baptismal certificate
