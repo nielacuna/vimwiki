@@ -12,19 +12,19 @@
 - [X] barangay munisipyo documents
         - [X] barangay clearance D:[Oct-25-2021 Mon] 
         - [X] cedula D: [Oct-25-2021 Mon]
-- [.] certificates
+- [o] certificates
         - [ ] baptismal certificate
                 - [ ] secure nov 4
                 - [ ] lbc priority send
         - [ ] confirmation certificate
                 - [ ] secure nov 4
                 - [ ] lbc priority send
-        - [o] PSA birth certificate
+        - [X] PSA birth certificate
                 - [X] order from PSA website
-                - [ ] received?
-        - [o] PSA cenomar
+                - [X] received?
+        - [X] PSA cenomar
                 - [X] order from PSA website
-                - [ ] received?
+                - [X] received?
 - [ ] send all documents to k
         - [ ] 2x2 photo
         - [ ] baptismal certificate
@@ -32,6 +32,7 @@
         - [ ] PSA birth certificate
         - [ ] PSA cenomar
 - [ ] decide on date for pre-marriage counselling
+        - [ ] feedback from krista: any weekday 
 - [ ] draft letter of authorization for getting cedula and barangay clearance
 - [ ] scan identification cards
         - [ ] passport
@@ -39,7 +40,13 @@
 
 == church == 
 - [X] send 8k to k for ADMU pre-cana. D:[oct-24-2021]
-- [ ] decide on date for pre-cana
-- [ ] parish interview (no date yet)
-- [ ] send primary sponsor to k
+- [ ] pre-cana
+        - [ ] decide on date
+        - [ ] attend
+- [ ] cannonical interview 
+        - [ ] decide on date
+        - [ ] attend
+- [X] send primary sponsor to k
+        - [X] aunti lina
+        - [X] kuya jay
 
