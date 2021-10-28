@@ -31,8 +31,9 @@
         - [ ] confirmation certificate
         - [ ] PSA birth certificate
         - [ ] PSA cenomar
-- [ ] decide on date for pre-marriage counselling
-        - [ ] feedback from krista: any weekday 
+- [o] pre-marriage counselling
+        - [X] date: nov 11
+        - [ ] get marriage license
 - [ ] draft letter of authorization for getting cedula and barangay clearance
 - [ ] scan identification cards
         - [ ] passport
