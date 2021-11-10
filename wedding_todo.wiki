@@ -12,38 +12,38 @@
 - [X] barangay munisipyo documents
         - [X] barangay clearance D:[Oct-25-2021 Mon] 
         - [X] cedula D: [Oct-25-2021 Mon]
-- [o] certificates
-        - [ ] baptismal certificate
-                - [ ] secure nov 4
-                - [ ] lbc priority send
-        - [ ] confirmation certificate
-                - [ ] secure nov 4
-                - [ ] lbc priority send
+- [X] certificates
+        - [X] baptismal certificate
+                - [X] secure nov 4
+                - [X] lbc priority send
+        - [X] confirmation certificate
+                - [X] secure nov 4
+                - [X] lbc priority send
         - [X] PSA birth certificate
                 - [X] order from PSA website
                 - [X] received?
         - [X] PSA cenomar
                 - [X] order from PSA website
                 - [X] received?
-- [ ] send all documents to k
-        - [ ] 2x2 photo
-        - [ ] baptismal certificate
-        - [ ] confirmation certificate
-        - [ ] PSA birth certificate
-        - [ ] PSA cenomar
-- [o] pre-marriage counselling
+- [X] send all documents to k
+        - [X] 2x2 photo
+        - [X] baptismal certificate
+        - [X] confirmation certificate
+        - [X] PSA birth certificate
+        - [X] PSA cenomar
+- [X] pre-marriage counselling
         - [X] date: nov 11
-        - [ ] get marriage license
-- [ ] draft letter of authorization for getting cedula and barangay clearance
-- [ ] scan identification cards
-        - [ ] passport
-        - [ ] UMID
+        - [X] get marriage license
+- [X] draft letter of authorization for getting cedula and barangay clearance
+- [X] scan identification cards
+        - [X] passport
+        - [X] UMID
 
 == church == 
 - [X] send 8k to k for ADMU pre-cana. D:[oct-24-2021]
-- [ ] pre-cana
-        - [ ] decide on date
-        - [ ] attend
+- [X] pre-cana  
+        - [X] decide on date (09 Nov 2021)
+        - [X] attend (09 Nov 2021)
 - [ ] cannonical interview 
         - [ ] decide on date
         - [ ] attend

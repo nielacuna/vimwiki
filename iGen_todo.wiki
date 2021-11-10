@@ -12,6 +12,6 @@
 - [X] Transcript of Record
 - [X] CoE from previous company
 - [ ] BIR 2316 2021 from previous company
-- [ ] 2 valid IDs (photocopy)
-- [ ] Skype account
-- [ ] COVID-19 Vaccination Card
+- [X] 2 valid IDs (photocopy)
+- [X] Skype account
+- [X] COVID-19 Vaccination Card
