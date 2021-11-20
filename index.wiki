@@ -3,6 +3,7 @@
 == shortcut ==
 * [[wedding_todo|wedding]]
 * [[iGen_todo|iGen TODO]]
+* [[MTG Novels]]
 
 == project notes ==
 * [[Yocto|Yocto Linux:imx8]]

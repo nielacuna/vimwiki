@@ -44,10 +44,9 @@
 - [X] pre-cana  
         - [X] decide on date (09 Nov 2021)
         - [X] attend (09 Nov 2021)
-- [ ] cannonical interview 
-        - [ ] decide on date
-        - [ ] attend
+- [X] cannonical interview 
+        - [X] decide on date
+        - [X] attend
 - [X] send primary sponsor to k
         - [X] aunti lina
-        - [X] kuya jay
-
+        - [X] uncle fer
