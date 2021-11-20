@@ -1,11 +1,11 @@
 = Magic the Gathering Novels =
 
-- [ ]  Artifact Cycle
-        - [ ] The Brother's War
-        - [ ] Planeswalker
-        - [ ] Time Streams
-        - [ ] Bloodlines: The Story of Urza's Destiny
-        - [ ] The Thran
+- [X]  Artifact Cycle
+        - [X] The Brother's War
+        - [X] Planeswalker
+        - [X] Time Streams
+        - [X] Bloodlines: The Story of Urza's Destiny
+        - [X] The Thran
 - [ ] Ice Age
         - [ ] The Gathering Dark
         - [ ] The Eternal Ice
@@ -73,6 +73,16 @@
         - [ ] Dragons of Magic
         - [ ] The Secrets of Magic
         - [ ] Monsters of Magic
-  
+- [ ] Non-cycle Novels
+        - [ ] Arena
+        - [ ] Whispering Woods
+        - [ ] Shattered Chains
+        - [ ] Final Sacrifice
+        - [ ] The Cursed Land
+        - [ ] The Prodigal Sorcerer
+        - [ ] Ashes of the Sun
+        - [ ] Song of Time
+        - [ ] And Peace Shall Sleep
+        - [ ] Dark Legacy
 
 
