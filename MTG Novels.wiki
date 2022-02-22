@@ -57,12 +57,12 @@
         - [X] Shadowmoor
         - [X] Eventide
 - [X] Alara Unbroken
-- [ ] Zendikar: In the Teeth of Akoum
+- [X] Zendikar: In the Teeth of Akoum
 - [X] Scars of Mirrodin: The Quest for Karn
-- [.] Planeswalker Novels
+- [o] Planeswalker Novels
         - [X] Agents of Artifice
         - [ ] The Purifying Fire
-        - [ ] Test of Metal
+        - [X] Test of Metal
         - [ ] Chandra
 - [X] Anthologies
         - [X] Tapestries
@@ -78,7 +78,7 @@
         - [X] Whispering Woods
         - [ ] Shattered Chains
         - [X] Final Sacrifice
-        - [ ] The Cursed Land
+        - [X] The Cursed Land
         - [X] The Prodigal Sorcerer
         - [X] Ashes of the Sun
         - [ ] Song of Time
