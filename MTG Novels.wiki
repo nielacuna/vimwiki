@@ -6,34 +6,34 @@
         - [X] Time Streams
         - [X] Bloodlines: The Story of Urza's Destiny
         - [X] The Thran
-- [ ] Ice Age
+- [o] Ice Age
         - [ ] The Gathering Dark
-        - [ ] The Eternal Ice
-        - [ ] The Shattered Alliance
-- [ ] Masquerade
-        - [ ] Mercadian Masques
-        - [ ] Nemesis
-        - [ ] Prophecy
-- [ ] Invasion
-        - [ ] Invasion
-        - [ ] Planeshift
-        - [ ] Apocalypse
-- [ ] Odyssey
-        - [ ] Odyssey
-        - [ ] Chainer's Torment
-        - [ ] Judgement
-- [ ] Legends
-        - [ ] Johan
-        - [ ] Jedit
+        - [X] The Eternal Ice
+        - [X] The Shattered Alliance
+- [X] Masquerade
+        - [X] Mercadian Masques
+        - [X] Nemesis
+        - [X] Prophecy
+- [X] Invasion
+        - [X] Invasion
+        - [X] Planeshift
+        - [X] Apocalypse
+- [X] Odyssey
+        - [X] Odyssey
+        - [X] Chainer's Torment
+        - [X] Judgement
+- [o] Legends
+        - [X] Johan
+        - [X] Jedit
         - [ ] Hazezon
 - [ ] Legends II
         - [ ] Assassin's Blade
         - [ ] Emperor's Fist
         - [ ] Champion's Trial
-- [ ] Onslaught
-        - [ ] Onslaught
-        - [ ] Legions
-        - [ ] Scourge
+- [X] Onslaught
+        - [X] Onslaught
+        - [X] Legions
+        - [X] Scourge
 - [ ] Mirrodin
         - [ ] The Moons of Mirrodin
         - [ ] The Darksteel Eye
@@ -42,47 +42,47 @@
         - [ ] Outlaw: Champions of Kamigawa
         - [ ] Heretic: Betrayers of Kamigawa
         - [ ] Guardian: Saviors of Kamigawa
-- [ ] Ravnica
-        - [ ] Ravnica: City of Guilds
-        - [ ] Guildpact
-        - [ ] Dissension
-- [ ] Time Spiral
-        - [ ] Time Spiral
-        - [ ] Planar Chaos
-        - [ ] Future Sight
-- [ ] Lorwyn
-        - [ ] Lorwyn
-        - [ ] Morningtide
-- [ ] Lorwyn II: Shadowmoor
-        - [ ] Shadowmoor
-        - [ ] Eventide
-- [ ] Alara Unbroken
+- [X] Ravnica
+        - [X] Ravnica: City of Guilds
+        - [X] Guildpact
+        - [X] Dissension
+- [X] Time Spiral
+        - [X] Time Spiral
+        - [X] Planar Chaos
+        - [X] Future Sight
+- [X] Lorwyn
+        - [X] Lorwyn
+        - [X] Morningtide
+- [X] Lorwyn II: Shadowmoor
+        - [X] Shadowmoor
+        - [X] Eventide
+- [X] Alara Unbroken
 - [ ] Zendikar: In the Teeth of Akoum
-- [ ] Scars of Mirrodin: The Quest for Karn
-- [ ] Planeswalker Novels
-        - [ ] Agents of Artifice
+- [X] Scars of Mirrodin: The Quest for Karn
+- [.] Planeswalker Novels
+        - [X] Agents of Artifice
         - [ ] The Purifying Fire
         - [ ] Test of Metal
         - [ ] Chandra
-- [ ] Anthologies
-        - [ ] Tapestries
-        - [ ] Distant Planes
-        - [ ] Rath and Storm
-        - [ ] The Colors of Magic
-        - [ ] Myths of Magic
-        - [ ] Dragons of Magic
-        - [ ] The Secrets of Magic
-        - [ ] Monsters of Magic
-- [ ] Non-cycle Novels
+- [X] Anthologies
+        - [X] Tapestries
+        - [X] Distant Planes
+        - [X] Rath and Storm
+        - [X] The Colors of Magic
+        - [X] Myths of Magic
+        - [X] Dragons of Magic
+        - [X] The Secrets of Magic
+        - [X] Monsters of Magic
+- [o] Non-cycle Novels
         - [ ] Arena
-        - [ ] Whispering Woods
+        - [X] Whispering Woods
         - [ ] Shattered Chains
-        - [ ] Final Sacrifice
+        - [X] Final Sacrifice
         - [ ] The Cursed Land
-        - [ ] The Prodigal Sorcerer
-        - [ ] Ashes of the Sun
+        - [X] The Prodigal Sorcerer
+        - [X] Ashes of the Sun
         - [ ] Song of Time
         - [ ] And Peace Shall Sleep
-        - [ ] Dark Legacy
+        - [X] Dark Legacy
 
 
