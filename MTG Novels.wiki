@@ -6,8 +6,8 @@
         - [X] Time Streams
         - [X] Bloodlines: The Story of Urza's Destiny
         - [X] The Thran
-- [o] Ice Age
-        - [ ] The Gathering Dark
+- [X] Ice Age
+        - [X] The Gathering Dark
         - [X] The Eternal Ice
         - [X] The Shattered Alliance
 - [X] Masquerade
@@ -38,10 +38,10 @@
         - [ ] The Moons of Mirrodin
         - [ ] The Darksteel Eye
         - [ ] The Fifth Dawn
-- [ ] Kamigawa
-        - [ ] Outlaw: Champions of Kamigawa
-        - [ ] Heretic: Betrayers of Kamigawa
-        - [ ] Guardian: Saviors of Kamigawa
+- [X] Kamigawa
+        - [X] Outlaw: Champions of Kamigawa
+        - [X] Heretic: Betrayers of Kamigawa
+        - [X] Guardian: Saviors of Kamigawa
 - [X] Ravnica
         - [X] Ravnica: City of Guilds
         - [X] Guildpact
